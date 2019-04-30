@@ -1,7 +1,6 @@
-/* Lavonda S. Dean, April 25, 2019 */ 
+/* Lavonda S. Dean, April 15, 2019 */ 
 
 <link href="style.css" rel="stylesheet" type="text/css">
-
 
 body {
     margin: 0;
@@ -114,12 +113,12 @@ ul#menu li a.button {
 	text-decoration: none;
 	/* this padding defines the size of the buttons */
 	/*padding: 18px 64px 18px 64px;*/
-  background-color: rgba(fff, 225, 225, 0.8);
+  background-color: rgba(0E7C8F, 0E7C8F, 0E7C8F, 0.8);
 
 }
 /* change button color when mouse hovers over */
 ul#menu li a.button:hover {
-	background-color: rgba(255, 233, 0, 0.7);
+	background-color: rgba(0E7C8F, 0E7C8F, 0E7C8F, 1.0);
 }
 /* ---------------- TITLE PAGE STYLES ------------------- */
 #title-page{ 
